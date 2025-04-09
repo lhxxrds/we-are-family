@@ -3,3 +3,5 @@ print(a+b)
 print(a//b)
 c=10 
 print(c) 
+print("zhangsan")
+print("hello world")
