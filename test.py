@@ -5,3 +5,4 @@ c=10
 print(c) 
 print("zhangsan")
 print("hello world")
+print()
